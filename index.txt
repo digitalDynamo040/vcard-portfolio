@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Dyllan Ostenson
+Dyllan Ostenson
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+dostenson16@gmail.com
 
 Phone
 +1 (213) 352-2795
 
 Birthday
-June 23, 1982
+January 6, 1991
 
 Location
-Sacramento, California, USA
+Beloit, Wisconsin, USA
 
 # navbar
 
